@@ -2,7 +2,7 @@
 A spin on the classic brick breaker game
 ## INSTALLATION
 Make sure you have [graphics.py](https://mcsp.wartburg.edu/zelle/python/graphics.py) in the same folder as any python files to run this program. <br /> 
-Additionally, ensure that you have a sample file called: document.txt file in the same folder as the project.
+Additionally, ensure that you have a sample file called 'document.txt' in the same folder as the project.
 ## USAGE
 
 Run the brickBreaker_main.py to play the game
